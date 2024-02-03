@@ -1,0 +1,61 @@
+<!--suppress ALL -->
+
+<resources>
+    <string name="app_name">Movie List</string>
+    <string name="movieTitle">Movie Title</string>
+    <string name="movieSynopsis">Movie Synopsis</string>
+    <string name="imdb">IMDb Rating</string>
+
+    <string-array name="data_movieRatings">
+        <item>7.7/10 (378K)</item>
+        <item>8.4/10 (1.2M)</item>
+        <item>8.4/10 (1.1M)</item>
+        <item>7.9/10 (726K)</item>
+        <item>7.9/10 (127K)</item>
+        <item>7.4/10 (401K)</item>
+        <item>8.2/10 (793K)</item>
+        <item>6.8/10 (126K)</item>
+        <item>6.7/10 (134K)</item>
+        <item>7.2/10 (371K)</item>
+    </string-array>
+
+    <string-array name="data_title">
+        <item>Avatar: The Way of Water</item>
+        <item>Avengers: Endgame</item>
+        <item>Avengers: Infinity War</item>
+        <item>Knives Out</item>
+        <item>Puss in Boots: The Last Wish</item>
+        <item>Shang-Chi and the Legend of the Ten Rings</item>
+        <item>Spider-Man: No Way Home</item>
+        <item>The Autopsy of Jane Doe</item>
+        <item>The Exorcism of Emily Rose</item>
+        <item>The Suicide Squad</item>
+
+    </string-array>
+
+    <string-array name="data_synopsis">
+        <item>"""Set more than a decade after the events of the first film, \"Avatar: The Way of Water\" begins to tell the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure."""</item>
+        <item>"""Adrift in space with no food or water, Tony Stark sends a message to Pepper Potts as his oxygen supply starts to dwindle. Meanwhile, the remaining Avengers Thor, Black Widow, Captain America and Bruce Banner must figure out a way to bring back their vanquished allies for an epic showdown with Thanos the evil demigod who decimated the planet and the universe."""</item>
+        <item>"""Iron Man, Thor, the Hulk and the rest of the Avengers unite to battle their most powerful enemy yet the evil Thanos. On a mission to collect all six Infinity Stones, Thanos plans to use the artifacts to inflict his twisted will on reality. The fate of the planet and existence itself has never been more uncertain as everything the Avengers have fought for has led up to this moment."""</item>
+        <item>"""The circumstances surrounding the death of crime novelist Harlan Thrombey are mysterious, but there\'s one thing that renowned Detective Benoit Blanc knows for sure everyone in the wildly dysfunctional Thrombey family is a suspect. Now, Blanc must sift through a web of lies and red herrings to uncover the truth."""</item>
+        <item>"""This fall, everyone\'s favorite leche-loving, swashbuckling, fear-defying feline returns. Puss has burned through eight of his nine lives, though he lost count along the way. Getting those lives back will send Puss in Boots on his grandest quest yet. As he embarks on an epic journey into the Black Forest to find the mythical Wishing Star and restore his lost lives. But with only one life left, Puss will have to humble himself and ask for help from his former partner and nemesis: the captivating Kitty Soft Paws. In their quest, Puss and Kitty will be aided—against their better judgment—by a ratty, chatty, relentlessly cheerful mutt, Perro. Together, our trio of heroes will have to stay one step ahead of Goldilocks and the Three Bears Crime Family, \"Big\" Jack Horner and terrifying bounty hunter, The Big Bad Wolf."""</item>
+        <item>"""Marvel Studios \"Shang-Chi and The Legend of The Ten Rings\" stars Simu Liu as Shang-Chi, who must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization. The film also stars Tony Leung as Wenwu, Awkwafina as Shang-Chi\'s friend Katy and Michelle Yeoh as Jiang Nan, as well as Fala Chen, Meng\'er Zhang, Florian Munteanu and Ronny Chieng."""</item>
+        <item>"""For the first time in the cinematic history of Spider-Man, our friendly neighborhood hero\'s identity is revealed, bringing his Super Hero responsibilities into conflict with his normal life and putting those he cares about most at risk. When he enlists Doctor Strange\'s help to restore his secret, the spell tears a hole in their world, releasing the most powerful villains who\'ve ever fought a Spider-Man in any universe. Now, Peter will have to overcome his greatest challenge yet, which will not only forever alter his own future but the future of the Multiverse."""</item>
+        <item>"""When father and son coroners investigate the death of a beautiful /"Jane Doe,/" they find increasingly bizarre clues."""</item>
+        <item>"""The Rev. Moore is prosecuted for the wrongful death of a girl thought to be demonically possessed, because he administered the church-sanctioned exorcism that ultimately killed her. Prosecuting attorney Ethan Thomas contends that the young woman, Emily, suffered from schizophrenia and should have been medically diagnosed. Meanwhile, defense lawyer Erin Bruner argues that Emily\'s condition cannot be explained by science alone."""</item>
+        <item>"""Welcome to hell—a.k.a. Belle Reve, the prison with the highest mortality rate in the US of A. Where the worst Super-Villains are kept and where they will do anything to get out—even join the super-secret, super-shady Task Force X. Today\'s do-or-die assignment? Assemble a collection of cons, including Bloodsport, Peacemaker, Captain Boomerang, Ratcatcher 2, Savant, King Shark, Blackguard, Javelin and everyone\'s favorite psycho, Harley Quinn. Then arm them heavily and drop them (literally) on the remote, enemy-infused island of Corto Maltese. Trekking through a jungle teeming with militant adversaries and guerrilla forces at every turn, the Squad is on a search-and-destroy mission with only Colonel Rick Flag on the ground to make them behave…and Amanda Waller/'s government techies in their ears, tracking their every movement. And as always, one wrong move and they/'re dead (whether at the hands of their opponents, a teammate, or Waller herself). If anyone/'s laying down bets, the smart money is against them—all of them."""</item>
+    </string-array>
+    <integer-array name="data_poster">
+        <item>@drawable/avatar_the_way_of_water_poster</item>
+        <item>@drawable/avengers_endgame_poster</item>
+        <item>@drawable/avengers_infinity_war_poster</item>
+        <item>@drawable/knives_out_poster</item>
+        <item>@drawable/puss_in_boots_the_last_wish_poster</item>
+        <item>@drawable/shangchi_and_the_legend_of_the_ten_rings_poster</item>
+        <item>@drawable/spiderman_no_way_home_poster</item>
+        <item>@drawable/the_autopsy_of_jane_doe</item>
+        <item>@drawable/the_exorcism_of_emily_rose</item>
+        <item>@drawable/the_suicide_squad</item>
+
+    </integer-array>
+</resources>
